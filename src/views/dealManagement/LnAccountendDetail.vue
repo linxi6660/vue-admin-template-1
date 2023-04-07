@@ -13,7 +13,7 @@
           <td width="35%">{{ LnAccountendDetail.lnAccountInfo.createTime }}</td>
         </tr>
         <tr>
-          <th>客户名称</th>
+          <th>客户名称111</th>
           <td>{{ LnAccountendDetail.lnAccountInfo.customerName }}</td>
           <th>联系电话</th>
           <td>{{ LnAccountendDetail.lnAccountInfo.mobile }}</td>
